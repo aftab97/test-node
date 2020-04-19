@@ -1,0 +1,6 @@
+cd to the folder
+npm init
+(enter through all the questions)
+npm install express --save
+
+---DONE---
